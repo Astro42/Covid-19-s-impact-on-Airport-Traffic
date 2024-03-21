@@ -2,10 +2,10 @@
 
 Project Description: Airport Traffic Visualization with GeoPandas & Plotly
 
-Overview: 
+# Overview: 
 This project aims to visualize airport traffic using geospatial analysis techniques and interactive plotting libraries like GeoPandas and Plotly. By leveraging these tools, we explore the spatial distribution of airport traffic patterns, uncovering insights into variations across different time periods and geographical locations.
 
-Content:
+# Content:
 1.	Data and Library Loading: Loading necessary libraries and the airport traffic dataset.
 2.	Preprocessing: Preparing the dataset for visualization by converting data types and extracting relevant information.
 3.	Data Overview: Exploring the geographical distribution of airports using Folium maps.
@@ -14,6 +14,18 @@ Content:
 •	Average per month: Exploring traffic variations across different months.
 5.	Visualization with Plotly: Creating interactive scatter plots with Plotly Express to visualize aggregated traffic data for each airport.
 
-Summary: 
+# Summary: 
 This project provides a comprehensive exploration of airport traffic patterns through advanced geospatial visualization techniques. By utilizing GeoPandas and Plotly, we gain insights into the geographical distribution of airport traffic, uncovering trends and variations across different time periods and locations. The interactive nature of the visualizations enhances data comprehension and engagement, making it a valuable resource for understanding and analyzing airport traffic data.
+
+# Files 
+
+Check out the following files
+
+1. "covid_impact_on_airport_traffic.csv" for dataset
+
+2. "Covid-19 Impact on Airport Traffic.ipynb" for the source code
+
+# Note
+
+This project was created for educational purposes.
 
